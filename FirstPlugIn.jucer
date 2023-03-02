@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="soNaVp" name="FirstPlugIn" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth"
+              pluginManufacturer="TheWzrd LLC">
   <MAINGROUP id="HrR9ko" name="FirstPlugIn">
     <GROUP id="{C27846AB-5F3C-CFF4-F618-6EC11AFC7FBB}" name="Source">
       <FILE id="ZiBKKk" name="PluginProcessor.cpp" compile="1" resource="0"
